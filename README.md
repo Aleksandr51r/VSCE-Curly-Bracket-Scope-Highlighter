@@ -1,6 +1,6 @@
 # 🌟 Curly Bracket Scope Highlighter
 
-🔍 A VS Code extension that highlights nested code scopes with a dynamic gradient overlay, enhancing code readability. Now featuring:
+🔍 A VS Code extension that highlights nested code scopes with a dynamic gradient overlay, enhancing code readability for JavaScript, TypeScript, Java, C/C++, C#, Go. Now featuring:
 
 - **Dynamic Gradient Highlighting:** The deeper the code nesting, the lighter the highlight becomes.
 - **Enhanced Dictionary & JSON Separation:** Visually distinguishes nested dictionaries and JSON objects for clearer data structure visualization.

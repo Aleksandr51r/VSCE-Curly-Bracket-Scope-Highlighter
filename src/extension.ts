@@ -15,6 +15,7 @@ export function activate(context: vscode.ExtensionContext) {
     "c",
     "cpp",
     "csharp",
+    "go",
   ]
 
   // !  Style oh highlight
